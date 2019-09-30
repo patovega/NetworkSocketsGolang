@@ -14,7 +14,7 @@ A diferencia del proyecto de referencia:
   * El cliente y el servidor son archivos diferentes (client.go y server.go)
   * El Servidor creado con golang no envía un broadcast del mensaje recibido a los clientes conectados y responde solamente al emisor del mensaje.
   * El clientes envía sus IP al servidor.
-  * El cliente toma la dirección del servidor desde un archivo JSON.
+  * El cliente toma la dirección y el puerto del servidor de destino desde un archivo JSON (config.json).
   * El cliente se encuentra "escuchando" la conexión con el servidor mostrando en consola cuando servidor se encuentra o no disponible.
   
 # Run Client
