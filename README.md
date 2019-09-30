@@ -21,7 +21,7 @@ A diferencia del proyecto de referencia:
 
     go run client.go 
 
-# Run Client
+# Run Server
 
     go run server.go 
 
