@@ -12,8 +12,8 @@ https://www.thepolyglotdeveloper.com/2017/05/network-sockets-with-the-go-program
 A diferencia del proyecto de referencia:
 
   * El cliente y el servidor son archivos diferentes (client.go y server.go)
-  * El Servidor creado con golang no envia un broadcast del mensaje recibido a los clientes conectados y responde solamente al emisor del mensaje.
-  * El clientes envia sus IP al servidor.
+  * El Servidor creado con golang no envía un broadcast del mensaje recibido a los clientes conectados y responde solamente al emisor del mensaje.
+  * El clientes envía sus IP al servidor.
   * El cliente toma la dirección del servidor desde un archivo JSON.
   * El cliente se encuentra "escuchando" la conexión con el servidor mostrando en consola cuando servidor se encuentra o no disponible.
   
