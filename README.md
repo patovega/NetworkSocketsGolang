@@ -1,6 +1,8 @@
 # NetworkSocketsGolang
 
-El proyecto consta de cliente GOLANG que envía su IP a un servidor GOLANG que responde la recepción del mensaje utilizando SOCKETS.
+El proyecto consta de un cliente GOLANG que envía su IP a un servidor GOLANG, este servidor responde la recepción del mensaje.
+
+El proyecto es creado para analizar el uso de SOCKETS con GO.
 
 
 # Basado en el proyecto
